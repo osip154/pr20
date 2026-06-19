@@ -1,4 +1,4 @@
-package com.abdulaziz.pr20_mirzakamilov_pr_23103;
+package com.Osipov.Pr20_Osipov;
 
 import android.os.Bundle;
 import android.view.View;
