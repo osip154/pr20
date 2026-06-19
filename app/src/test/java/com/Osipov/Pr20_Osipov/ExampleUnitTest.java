@@ -1,4 +1,4 @@
-package com.Osipov.Pr21_Osipov;
+package com.Osipov.Pr20_Osipov;
 
 import org.junit.Test;
 
