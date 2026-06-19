@@ -1,15 +1,15 @@
 {
   "project_info": {
     "project_number": "345379261626",
-    "project_id": "pr20-813e4",
-    "storage_bucket": "pr20-813e4.firebasestorage.app"
+    "project_id": "Pr20_Osipov-813e4",
+    "storage_bucket": "Pr20_Osipov-813e4.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
         "mobilesdk_app_id": "1:345379261626:android:d96486222632eaa527c683",
         "android_client_info": {
-          "package_name": "com.abdulaziz.pr20_mirzakamilov_pr_23103"
+          "package_name": "com.Osipov.Pr20_Osipov"
         }
       },
       "oauth_client": [],
