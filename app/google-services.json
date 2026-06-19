@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "345379261626",
+    "project_id": "pr20-813e4",
+    "storage_bucket": "pr20-813e4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345379261626:android:d96486222632eaa527c683",
+        "android_client_info": {
+          "package_name": "com.abdulaziz.pr20_mirzakamilov_pr_23103"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDohefW3QJj9cxwALXiOizAHlHUPpFyLbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
