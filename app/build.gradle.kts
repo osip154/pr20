@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.abdulaziz.pr20_mirzakamilov_pr_23103"
+    namespace = "com.Osipov.Pr20_Osipov"
     compileSdk {
         version = release(36) {
             minorApiLevel = 1
@@ -12,7 +12,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.abdulaziz.pr20_mirzakamilov_pr_23103"
+        applicationId = "com.Osipov.Pr20_Osipov"
         minSdk = 31
         targetSdk = 36
         versionCode = 1
